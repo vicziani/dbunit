@@ -364,11 +364,13 @@
       <groupId>org.apache.poi</groupId>
       <artifactId>poi-ooxml</artifactId>
       <version>${poiVersion}</version>
+      <optional>true</optional>
     </dependency>
     <dependency>
       <groupId>org.postgresql</groupId>
       <artifactId>postgresql</artifactId>
       <version>${postgresqlDriverVersion}</version>
+      <optional>true</optional>
     </dependency>
 
     <dependency>
