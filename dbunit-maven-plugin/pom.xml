@@ -58,6 +58,10 @@
     <maven>2.0</maven>
   </prerequisites>
 
+  <properties>
+    <project.build.java.target>1.8</project.build.java.target>
+  </properties>
+
   <developers>
     <developer>
       <id>topping</id>
