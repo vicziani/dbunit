@@ -326,12 +326,14 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>${junitVersion}</version>
+      <optional>true</optional>
     </dependency>
     <dependency>
       <groupId>org.hamcrest</groupId>
       <artifactId>hamcrest-library</artifactId>
       <version>${hamcrestVersion}</version>
       <scope>test</scope>
+      <optional>true</optional>
     </dependency>
     <dependency>
       <groupId>commons-collections</groupId>
