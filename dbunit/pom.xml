@@ -86,7 +86,7 @@
     <mysqlDriverVersion>5.1.6</mysqlDriverVersion>
     <oracle10DriverVersion>10.2.0.4.0</oracle10DriverVersion>
     <oracle11DriverVersion>11.2.0.3</oracle11DriverVersion>
-    <postgresqlDriverVersion>42.2.5</postgresqlDriverVersion>
+    <postgresqlDriverVersion>42.3.3</postgresqlDriverVersion>
     <sqlServer41DriverVersion>7.2.1.jre8</sqlServer41DriverVersion>
 
     <!-- Other versions -->
